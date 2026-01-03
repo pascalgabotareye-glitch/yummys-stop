@@ -1,4 +1,13 @@
-# yummys-stop
+jollof.jpg
+fried-rice.jpg
+banku.jpg
+waakye.jpg
+noodles.jpg
+burger.jpg
+mango-juice.jpg
+soft-drink.jpg
+icetea.jpg
+coffee.jpg# yummys-stop
 Food stop
 <!DOCTYPE html>
 <html lang="en">
