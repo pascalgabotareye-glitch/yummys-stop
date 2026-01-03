@@ -35,9 +35,16 @@ Food stop
     }
     .menu-item {
       background: white;
-      padding: 15px;
+      padding: 10px;
       border-radius: 8px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .menu-item img {
+      width: 100%;
+      border-radius: 5px;
+      height: 150px;
+      object-fit: cover;
     }
     .highlight {
       background: #fff3cd;
@@ -50,61 +57,11 @@ Food stop
       color: white;
       text-align: center;
       padding: 20px;
+      margin-top: 30px;
     }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>Yummys Stop</h1>
-  <p>Cafe & Restaurant</p>
-  <p><strong>Open 24 Hours</strong></p>
-</header>
-
-<section>
-  <div class="highlight">
-    <strong>We do deliveries!</strong> Enjoy your favorite meals anytime, anywhere.
-  </div>
-
-  <h2>Best Dishes</h2>
-  <div class="menu">
-    <div class="menu-item">
-      <h3>Jollof Rice with Chicken</h3>
-      <p>₵35.00</p>
-    </div>
-    <div class="menu-item">
-      <h3>Fried Rice with Beef</h3>
-      <p>₵38.00</p>
-    </div>
-    <div class="menu-item">
-      <h3>Banku with Tilapia</h3>
-      <p>₵45.00</p>
-    </div>
-    <div class="menu-item">
-      <h3>Waakye Special</h3>
-      <p>₵40.00</p>
-    </div>
-    <div class="menu-item">
-      <h3>Assorted Noodles</h3>
-      <p>₵30.00</p>
-    </div>
-    <div class="menu-item">
-      <h3>Chicken Burger & Fries</h3>
-      <p>₵32.00</p>
-    </div>
-  </div>
-</section>
-
-<section>
-  <h2>Contact Us</h2>
-  <p><strong>Phone:</strong> 0550001816</p>
-  <p><strong>Email:</strong> pasysbite@gmail.com</p>
-</section>
-
-<footer>
-  <p>&copy; 2025 Yummys Stop</p>
-  <p>Created by <strong>Pascal</strong> | Class: <strong>1S11</strong></p>
-</footer>
-
-</body>
-</html>
+  <h1>Yummys Stop</h1
