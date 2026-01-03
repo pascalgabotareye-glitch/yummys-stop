@@ -1,17 +1,5 @@
-mango-juice.jpg     (Mango Juice)
-soft-drink.jpg      (Soft Drink)
-icetea.jpg          (Ice Tea)
-coffee.jpg          (Coffee)jollof.jpg
-fried-rice.jpg
-banku.jpg
-waakye.jpg
-noodles.jpg
-burger.jpg
-mango-juice.jpg
-soft-drink.jpg
-icetea.jpg
-coffee.jpg# yummys-stop
-Food stop
+yummys-stop 
+food stop 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,4 +64,87 @@ Food stop
 <body>
 
 <header>
-  <h1>Yummys Stop</h1
+  <h1>Yummys Stop</h1>
+  <p>Cafe & Restaurant</p>
+  <p><strong>Open 24 Hours</strong></p>
+</header>
+
+<section>
+  <div class="highlight">
+    <strong>We do deliveries!</strong> Enjoy your favorite meals anytime, anywhere.
+  </div>
+
+  <h2>Best Dishes</h2>
+  <div class="menu">
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1604908177524-1b90f71c2b55?auto=format&fit=crop&w=400&q=80" alt="Jollof Rice with Chicken">
+      <h3>Jollof Rice with Chicken</h3>
+      <p>₵35.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=400&q=80" alt="Fried Rice with Beef">
+      <h3>Fried Rice with Beef</h3>
+      <p>₵38.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1617196036307-ffeb0c7a9df6?auto=format&fit=crop&w=400&q=80" alt="Banku with Tilapia">
+      <h3>Banku with Tilapia</h3>
+      <p>₵45.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=400&q=80" alt="Waakye Special">
+      <h3>Waakye Special</h3>
+      <p>₵40.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1599785209707-4a78c975d920?auto=format&fit=crop&w=400&q=80" alt="Assorted Noodles">
+      <h3>Assorted Noodles</h3>
+      <p>₵30.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1601050699183-3d2d37da7a3e?auto=format&fit=crop&w=400&q=80" alt="Chicken Burger & Fries">
+      <h3>Chicken Burger & Fries</h3>
+      <p>₵32.00</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Drinks & Beverages</h2>
+  <div class="menu">
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1586201375761-83865001eab1?auto=format&fit=crop&w=400&q=80" alt="Mango Juice">
+      <h3>Mango Juice</h3>
+      <p>₵10.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1561043433-aaf687c4cf4f?auto=format&fit=crop&w=400&q=80" alt="Soft Drink">
+      <h3>Soft Drink</h3>
+      <p>₵8.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1617196036307-ffeb0c7a9df6?auto=format&fit=crop&w=400&q=80" alt="Ice Tea">
+      <h3>Ice Tea</h3>
+      <p>₵12.00</p>
+    </div>
+    <div class="menu-item">
+      <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=400&q=80" alt="Coffee">
+      <h3>Coffee</h3>
+      <p>₵15.00</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Contact Us</h2>
+  <p><strong>Phone:</strong> 0550001816</p>
+  <p><strong>Email:</strong> pasysbite@gmail.com</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Yummys Stop</p>
+  <p>Created by <strong>Pascal</strong> | Class: <strong>1S11</strong></p>
+</footer>
+
+</body>
+</html>
