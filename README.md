@@ -1,4 +1,7 @@
-jollof.jpg
+mango-juice.jpg     (Mango Juice)
+soft-drink.jpg      (Soft Drink)
+icetea.jpg          (Ice Tea)
+coffee.jpg          (Coffee)jollof.jpg
 fried-rice.jpg
 banku.jpg
 waakye.jpg
